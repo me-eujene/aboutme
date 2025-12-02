@@ -63,7 +63,7 @@ Master's Degree in Social Sciences (Sociology and Statistics) | 2003
 
 ### FLTRCKR - AI Flight Diary App (2025)
 
-Android flight diary app integrating an AI agent for automated flight data search and retrieval (evals, prompt design, api design), created specifically to test AI-assisted development tools (GitHub Copilot, Cursor, Claude Code).
+Android flight diary app integrating an AI agent for automated flight data search and retrieval (evals, prompt design, api design), created specifically to test AI-assisted development tools (GitHub Copilot, Cursor, Claude Code). Surprisingly on it's way to be publicly released in Google Play.
 
 **Technologies:** Vue/JS, Gemini AI SDK, Mistral La Plateforme
 
