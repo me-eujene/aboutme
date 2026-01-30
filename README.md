@@ -62,6 +62,7 @@ Master's Degree in Social Sciences (Sociology and Statistics) | 2003
 ## Personal Projects
 
 ### FLTRCKR - AI Flight Diary App (2025)
+https://play.google.com/store/apps/details?id=com.fltrckr.app
 
 Android flight diary app integrating an AI agent for automated flight data search and retrieval (evals, prompt design, api design), created specifically to test AI-assisted development tools (GitHub Copilot, Cursor, Claude Code). Surprisingly on it's way to be publicly released in Google Play.
 
